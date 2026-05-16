@@ -2,6 +2,10 @@
 
 I spent about an hour (I timed it!) designing and creating my PCB! There is more info below.
 
+## Why??
+
+I made this to modernise how we see business. As I meet more and more people, it is getting harder and harder to share my website and all my details. So combined with my pre-exisiting personal website, I can now easily share my site - no questions asked (even though my surname is hard to type, say and write!)
+
 ## Product Description
 
 The card is very simple. The NFC coils are at the top of the card, making it easier for people to tap their phones (devices etc etc) and basically I want to program the NFC to link to my personal website. In case the person's phone doesn't have NFC, I have written my email and GitHub Username on there, and also a QR Code to my website, so I can share it without the NFC! 
