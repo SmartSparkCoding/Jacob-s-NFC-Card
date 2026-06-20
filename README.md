@@ -27,3 +27,10 @@ Images from my design are below!
 ![Screenshot 2026-05-09 164912](https://stasis.hackclub-assets.com/images/1778341961216-q9tdbj.png)
 
 ![Screenshot 2026-05-09 164907](https://stasis.hackclub-assets.com/images/1778341961017-ut3t3w.png)
+
+## Project BOM
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|:-----|:--------|---------:|-----------------:|:-----|:------------|
+| Assembled PCB (WITH COMPONENTS) | TO MAKE THE CARD WORK | 1 | 12.45 | https://jlcpcb.com/ | JLCPCB |
+| PCB | the PCB | 1 | 2.00 | https://jlcpcb.com/ | JLCPCB |
